@@ -31,7 +31,11 @@ Deployment: Deploy using platforms like Heroku or Netlify for ease of deployment
 ## Timeline:
 
 Weeks 1-2: Set up basic project structure, user authentication, and database schema.
+
 Weeks 3-4: Implement content creation and publishing features.
+
 Weeks 5-6: Develop content discovery, interaction, and basic collaboration features.
+
 Weeks 7-8: Enhance collaboration and community-building functionalities.
+
 Weeks 9-10: Finalize testing, bug fixing, and deployment.
